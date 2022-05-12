@@ -1,0 +1,4 @@
+- git:
+    local-name: anyfeeder_interfaces
+    uri: http://robotgit.localdom.net/ai-box/components/anyfeeder/anyfeeder_interfaces.git
+    version: v0.0.3
